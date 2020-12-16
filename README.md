@@ -5,4 +5,4 @@ I am always open to finding new programming languages & of course learning them 
 
 If you have any questions for me, feel free to contact me by email: [Send mail](mailto:sami@ciqe-esports.de)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saamii-ue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saamii-ue)]()
