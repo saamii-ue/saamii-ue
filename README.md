@@ -1,4 +1,4 @@
-👋 Hey! My name is Sami and i am currently 12 years old. My hobbies are karate and programming.
+👋 Hey! My name is Sami and I am currently 12 years old. My hobbies are karate and programming.
 
 My current programming languages are: JavaScript, Java, Swift and LUA.
 I am always open to finding new programming languages & of course learning them afterwards.
