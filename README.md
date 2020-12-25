@@ -3,7 +3,7 @@
 My current programming languages are: JavaScript, Java, Swift and LUA.
 I am always open to finding new programming languages & of course learning them afterwards.
 
-If you have any questions for me, feel free to contact me by email: [Send mail](mailto:sami@ciqe-esports.de)<br>
+If you have any questions for me, feel free to contact me by email: [Send mail](mailto:s.uensay@outlook.com)<br>
 
 For more informations you can visit my website. [Link](https://saamii-ue.github.io)
 
